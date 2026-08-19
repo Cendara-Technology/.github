@@ -141,7 +141,7 @@ Cendara works with technology vendors and strategic partners across data protect
 
 Current partner ecosystem includes:
 
-**Datadobi** · **RoboShadow** · **Seagate**
+**Datadobi** · **Cambium Networks** · **Zero Networks** · **Seagate**
 
 ---
 
